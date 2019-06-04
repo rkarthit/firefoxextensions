@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Context menu",
+    "description": "Seacrhes the selected text in another engine",
+    "version": "1.0",
+    "icons": {
+        "48": "icons/arkar.png",
+        "96": "icons/arkar2.png"
+    },
+    "permissions":["contextMenus"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
