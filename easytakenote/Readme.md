@@ -1,6 +1,6 @@
 #Easy takenote
 
-#This will help you to take note easily by clicking the icon from the menu bar. Notes are store locally and available if you open 
+#This will help you to take note easily by clicking the icon from the tool bar. Notes are store locally and available if you open 
 browser again.
 
 #Build tools
