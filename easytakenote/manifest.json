@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "name": "eznote",
+    "version": "1.1",
+
+    "description": "allows user to do note function",
+    "icons": {
+        "48": "icons/one.png"
+    },
+
+    "permissions": [
+    "storage"
+  ],
+
+    "browser_action": {
+        "default_icon": {
+            "32": "icons/one.png"
+        },
+        "default_title": "eznote",
+        "default_popup": "popup/eznote.html"
+    },
+
+  "applications": {
+    "gecko": {
+      "id": "note@akxmj.com"
+    }
+  }
+
+}
