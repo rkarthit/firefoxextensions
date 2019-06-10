@@ -1,8 +1,8 @@
 #Dynamic theme
 #What it does
 
-Checks the users time and then flips between two different themes. A "moon theme" for after 8pm and before 8am and
-a "sun theme" the rest of the time.
+Checks the users time and then flips between two different themes. A "theme1 night theme" for after 8pm and before 8am and
+a "theme2 day theme" the rest of the time.
 
 To flip themes you can change the system time.
 
