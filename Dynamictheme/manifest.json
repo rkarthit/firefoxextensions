@@ -1,6 +1,6 @@
 {
   "description": "dynamictheme,
-  "homepage_url": "https://github.com/rkarthit/firefoxextensions/blob/master/Dynamictheme",
+  "homepage_url": "https://github.com/rkarthit/firefoxextensions/tree/master/Dynamictheme",
   "manifest_version": 2,
   "name": "Dynamic theme ",
   "permissions": [
